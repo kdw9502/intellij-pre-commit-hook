@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.kdw9502.intellijprecommithook.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.kdw9502.intellijprecommithook.MyBundle
 
 class MyApplicationService {
 
